@@ -1,4 +1,6 @@
-Pinata
+# metadata info
+
+use Pinata
 
 LAODAO_JSON CID: QmRmj22KmHjB9AyriuQWY97GvSCR5BeTUojnd7YRaavWbU
 

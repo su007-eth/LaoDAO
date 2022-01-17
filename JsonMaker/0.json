@@ -1,0 +1,28 @@
+{
+    "name": "LaoDao OG #0",
+    "image": "ipfs://QmRA2mipvfAM21JQWVPnxZbBu94fkCjgSaBs7CfBV1YmG2/0.png",
+    "external_url": "https://laodao.io",
+    "description": "https://laodao.io",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Black gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Frontal face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+{
+    "name": "LaoDao OG #",  
+    "image": "ipfs://QmRA2mipvfAM21JQWVPnxZbBu94fkCjgSaBs7CfBV1YmG2/",
+   "external_url": "https://laodao.io",
+    "description":"https://laodao.io",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Genesis; Legend Edition; Regular"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Black gold; Gold; Silver"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor, Business Suit, Bow tie, Ancient clothing"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Frontal face; Profile face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1000
+        }
+    ]
+}
+
+
+
+{
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Genesis; Legend Edition; Regular"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Black gold; Gold; Silver"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor, Business Suit, Bow tie, Ancient clothing"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Frontal face; Profile face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1000
+        }
+    ]
+}
+800-999
+{
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ancient clothing"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Profile face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1000
+        }
+    ]
+}
+600-799
+{
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bow tie"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Profile face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1000
+        }
+    ]
+}
+400-599
+{
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Business Suit"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Profile face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1000
+        }
+    ]
+}
+200-399
+{
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Profile face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1000
+        }
+    ]
+}
+160-199
+{
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Legend Edition"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bow tie"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Frontal face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1000
+        }
+    ]
+}
+120-159
+{
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Legend Edition"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Business Suit"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Frontal face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1000
+        }
+    ]
+}
+80-119
+{
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Legend Edition"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Frontal face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1000
+        }
+    ]
+}
+0-79
+{
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Black gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Frontal face"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1000
+        }
+    ]
+}

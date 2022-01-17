@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x87FE9e34652359571299Af77ae57EA2390a8F758",
+  "SCAN_LINK": "https://etherscan.io/token/0x87fe9e34652359571299af77ae57ea2390a8f758",
+  "NETWORK": {
+    "NAME": "Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "LaoDAO",
+  "SYMBOL": "LAO",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/laodao",
+  "SHOW_BACKGROUND": true
+}
